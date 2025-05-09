@@ -1,0 +1,2 @@
+# eduplatform
+simple educational website
